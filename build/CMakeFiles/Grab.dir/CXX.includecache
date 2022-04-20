@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/camthread.h
+
+/home/fmc/JinLn/BaslerCameraHardwareTrigger_GigE/BaslerCameraHardTrigger/Examples/Grab.cpp
+include/camthread.h
+/home/fmc/JinLn/BaslerCameraHardwareTrigger_GigE/BaslerCameraHardTrigger/Examples/include/camthread.h
+thread
+-
+iostream
+-
+chrono
+-
+ctime
+-
+
